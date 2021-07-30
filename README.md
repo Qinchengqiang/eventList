@@ -1,3 +1,3 @@
 # eventList
 
-summary of DOM events
+Summary of DOM events
