@@ -1,3 +1,3 @@
 # eventList
 
-Summary of DOM events
+Summary of HTML DOM event methods
